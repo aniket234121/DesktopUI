@@ -1,8 +1,12 @@
 import React from 'react'
+import Desktop from "./components/Desktop"
 
 const App = () => {
   return (
-    <div className="">App</div>
+    <div>
+     <Desktop></Desktop> 
+     
+    </div>
   )
 }
 
